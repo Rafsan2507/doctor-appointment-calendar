@@ -1,0 +1,28 @@
+{
+  "appointments": [
+    {
+      "id": "2d93",
+      "name": "Rafsan",
+      "gender": "Male",
+      "age": 20,
+      "date": "2024-10-02T19:00:00.000Z",
+      "time": "01:00"
+    },
+    {
+      "id": "0041",
+      "name": "Tragariyen",
+      "gender": "Male",
+      "age": 30,
+      "date": "2024-09-30T18:30:00.000Z",
+      "time": "00:30"
+    },
+    {
+      "id": "62f3",
+      "name": "Jesse",
+      "gender": "Male",
+      "age": 25,
+      "date": "2024-09-30T19:15:00.000Z",
+      "time": "01:15"
+    }
+  ]
+}
